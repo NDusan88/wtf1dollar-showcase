@@ -55,9 +55,9 @@ no bundler) · NOWPayments (payments) · CoinGecko (pricing).
 
 | Tier | Price | What you get |
 |------|-------|--------------|
-| **Non-exclusive license** | $1,500 | Full source; deploy your own brand. Reselling/redistribution not permitted. |
-| **Exclusive sale (full transfer)** | $12,000 (open to offers) | Full source + IP transfer; the seller stops selling. |
-| **Deployment + 30-day support** | Add-on | Get live this week; setup help and fixes. |
+| **Non-exclusive license** | Contact us | Full source; deploy your own brand. Reselling/redistribution not permitted. |
+| **Exclusive sale (full transfer)** | Contact us | Full source + IP transfer; the seller stops selling. |
+| **Deployment + 30-day support** | Contact us | Get live this week; setup help and fixes. |
 
 ## How to buy
 
