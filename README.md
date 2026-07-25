@@ -28,7 +28,7 @@ vendor, no per-spin licensing fees, no revenue share.
 
 ## What's inside
 
-| | |
+| Area | Details |
 |---|---|
 | **Games** | Dice · Plinko · Mines · Crash · Coin Flip · The WTF Button (mystery multiplier to 1000x) · WTF Scratcher (3×3 scratch card) · Crash Royale (real-time multiplayer PvP) |
 | **Jackpots** | Mini / Mega / Grand — Mega Moolah-style must-win drops, opt-in from any game, self-reseeding |
